@@ -1,6 +1,6 @@
 Jack Lucania
 </p>Chicago, IL
-</p>University of South Carolina class of 2027
+<bp>University of South Carolina class of 2027
 </p>Computer Science Major
 
 <!---

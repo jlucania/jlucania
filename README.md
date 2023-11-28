@@ -1,7 +1,7 @@
-<bp>Jack Lucania
-Chicago, IL
-<bp>University of South Carolina class of 2027
-</p>Computer Science Major
+<p>Jack Lucania
+</p>Chicago, IL
+</p>University of South Carolina class of 2027
+<bp>Computer Science Major
 
 <!---
 jlucania/jlucania is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
